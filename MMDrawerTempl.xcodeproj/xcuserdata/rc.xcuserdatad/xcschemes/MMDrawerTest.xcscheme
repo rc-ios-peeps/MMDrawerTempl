@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "51E7378317556A4D0036A859"
-               BuildableName = "MMDrawerTest.app"
+               BuildableName = "MMDrawerTempl.app"
                BlueprintName = "MMDrawerTempl"
                ReferencedContainer = "container:MMDrawerTempl.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "51E7378317556A4D0036A859"
-            BuildableName = "MMDrawerTest.app"
+            BuildableName = "MMDrawerTempl.app"
             BlueprintName = "MMDrawerTempl"
             ReferencedContainer = "container:MMDrawerTempl.xcodeproj">
          </BuildableReference>
@@ -52,7 +52,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "51E7378317556A4D0036A859"
-            BuildableName = "MMDrawerTest.app"
+            BuildableName = "MMDrawerTempl.app"
             BlueprintName = "MMDrawerTempl"
             ReferencedContainer = "container:MMDrawerTempl.xcodeproj">
          </BuildableReference>
@@ -70,7 +70,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "51E7378317556A4D0036A859"
-            BuildableName = "MMDrawerTest.app"
+            BuildableName = "MMDrawerTempl.app"
             BlueprintName = "MMDrawerTempl"
             ReferencedContainer = "container:MMDrawerTempl.xcodeproj">
          </BuildableReference>
